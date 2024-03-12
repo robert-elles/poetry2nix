@@ -8627,6 +8627,9 @@
     "hatchling",
     "setuptools"
   ],
+  "ipyleaflet": [
+    "jupyter-packaging"
+  ],
   "ipympl": [
     "setuptools"
   ],
@@ -14958,6 +14961,9 @@
   "pymediaroom": [
     "setuptools"
   ],
+  "pymediawiki": [
+    "setuptools"
+  ],
   "pymeeus": [
     "setuptools"
   ],
@@ -18394,9 +18400,6 @@
   ],
   "schema": [
     "setuptools"
-  ],
-  "ipyleaflet": [
-    "jupyter-packaging"
   ],
   "schema-salad": [
     "setuptools"
