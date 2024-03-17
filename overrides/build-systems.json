@@ -2729,6 +2729,9 @@
   "brunt": [
     "setuptools"
   ],
+  "bs4": [
+    "hatchling"
+  ],
   "bsblan": [
     "poetry-core",
     "setuptools"
@@ -4497,6 +4500,9 @@
   "dict2xml": [
     "hatchling",
     "setuptools"
+  ],
+  "dictdatabase": [
+    "poetry"
   ],
   "dictdiffer": [
     "setuptools",
@@ -8692,6 +8698,9 @@
   "iso4217": [
     "setuptools"
   ],
+  "iso639-lang": [
+    "setuptools"
+  ],
   "iso8601": [
     "poetry-core",
     "setuptools"
@@ -11128,6 +11137,9 @@
   ],
   "mysql-connector": [
     "setuptools"
+  ],
+  "mysql-to-sqlite3": [
+    "hatchling"
   ],
   "mysqlclient": [
     "setuptools"
@@ -15036,6 +15048,9 @@
   "pymsteams": [
     "setuptools"
   ],
+  "pymultidictionary": [
+    "setuptools"
+  ],
   "pymumble": [
     "setuptools"
   ],
@@ -17032,6 +17047,9 @@
     "poetry-core"
   ],
   "pytimeparse": [
+    "setuptools"
+  ],
+  "pytimeparse2": [
     "setuptools"
   ],
   "pytkdocs": [
@@ -22106,6 +22124,9 @@
     "setuptools"
   ],
   "wikitextparser": [
+    "setuptools"
+  ],
+  "wiktionaryparser": [
     "setuptools"
   ],
   "willow": [
