@@ -20686,6 +20686,9 @@
   "torch-bin": [
     "setuptools"
   ],
+  "torch-struct": [
+    "setuptools"
+  ],
   "torch-tb-profiler": [
     "setuptools"
   ],
